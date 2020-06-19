@@ -178,6 +178,7 @@ p {
   
   .left {
     grid-area: left;
+    padding-right: 6em;
   }
   
   .right {
